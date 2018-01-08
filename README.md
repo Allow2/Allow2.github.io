@@ -17,8 +17,18 @@ Parents are looking more and more for products that have sensible, helpful and u
 * Banning activities when children misbehave
 * Providing rewards for chores and good behaviour
 
-But **ALL other systems** suffer from a **fatal flaw**, they require you to set controls based on the day of the week! While this approach seems to be sensible in theory,
-life is really about exceptions: Holidays, Sick Days, Sporting events, and more.
+But **ALL other systems** suffer from a **number of fatal flaws**:
+* They **ALL** require you to set controls based on the day of the week (Monday, etc) which is **not how the world works**.
+* Manufacturers and developers cannot expend a disproportionate amount of resource developing complex and comprehensive parental controls, so they typically
+**create rudimentary and useless solutions** or **just do not bother**.
+* All systems are siloed and independent, creating an immense and ever growing burden on the billions of time-poor parents around the world.
+* Parents are now becoming **reluctant to spend** on devices, games and service subscriptions as they know they have no tools to help them teach responsible use.
+* With electricity prices souring, greenhouse emissions growing and the rapidly growing carbon footprint, Parents are forever paying more and damaging the planet more each day.
+
+**Life is really about exceptions**: Holidays, Sick Days, Sporting events, and more.
+Analytics, conversation channels and helpdesk are all platforms developers can **integrate in hours** (not months), so why not quota management and parental controls?
+Parents need to **spend less time managing child time limits** and they need a simple interface to do so across everything.
+
 So when systems then require parents to repeatedly reconfigure devices and apps to cater for these frequent events, AND they have to do this on different sites,
 apps and devices, they quickly give up in frustration.
 
@@ -37,6 +47,11 @@ The **Allow2** platform provides free to use developer SDKs for both "devices" a
 * Devices - Any "User owned" apps and devices, games, gaming consoles, TVs, PVRs, etc, designed to be paired with 1 owner account per instance
 * Services - Any multi-user API connected instances. Facebook, web sites, twitter, group services, shared devices in public places, etc.
 * Request Interface - Users on each device/service can create and submit access or change requests to the parent using this interface directly in the device/service.
+
+## Allow2 Usage Examples
+
+* Place limits on gaming time, be it on device, web site or gaming console
+* Implement electricity usage quotas, if children forget to turn off their fan or light, they run out of quota for the day and the devices turn off.
 
 ## Simple to integrate
 
