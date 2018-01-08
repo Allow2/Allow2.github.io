@@ -1,5 +1,0 @@
-source: .
-destination: ..
-keep_files: ../_src ../.git
-
-theme: jekyll-theme-cayman

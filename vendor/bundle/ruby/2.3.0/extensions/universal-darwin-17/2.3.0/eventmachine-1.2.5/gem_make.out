@@ -1,0 +1,25 @@
+current directory: /Users/andrew/Projects-A2/Allow2.github.io/_src/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180108-62297-1cjcn5o.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/universal-darwin17/rbconfig.rb:214: warning: Insecure world writable dir /usr/local/apache-maven-2.2.1/bin in PATH, mode 040777
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/andrew/Projects-A2/Allow2.github.io/_src/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-17/2.3.0/eventmachine-1.2.5/mkmf.log
+
+current directory: /Users/andrew/Projects-A2/Allow2.github.io/_src/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/andrew/Projects-A2/Allow2.github.io/_src/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/libressl/lib'
+ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
+ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/libressl/lib'
+ld: warning: directory not found for option '-L/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.Internal.sdk/usr/local/lib'
+
+current directory: /Users/andrew/Projects-A2/Allow2.github.io/_src/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20180108-62297-e2xkl2
