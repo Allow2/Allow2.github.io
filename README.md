@@ -1,31 +1,47 @@
-# Allow2.github.io
+# New Age Jekyll theme
+=========================
 
-The Allow2 platform provides free to use developer SDKs for both "devices" and "services"
+## If you are a company and you're going to use the blog: 
+1. contact bootstrap start up and ask.
+2. contact me because there is to remove some useless part.
 
-* Devices - Any "User owned" apps and devices, games, gaming consoles, TVs, PVRs, etc, designed to be paired with 1 owner account per instance
-* Services - Any multi-user API connected instances. Facebook, web sites, twitter, group services, shared devices in public places, etc.
-* Request Interface - Users on each device/service can create and submit access or change requests to the parent using this interface directly in the device/service.
+Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
 
-## Current production-ready SDKs:
+# Demo
+View this jekyll theme in action [here](https://jekynewage.github.io/)
 
-These SDKs can be embedded in production apps:
+## Built by
+[Antonio Trento](https://it.linkedin.com/in/antoniotrento)
 
-* https://github.com/Allow2/Allow2iOS - Device SDK
-* https://github.com/Allow2/Allow2iOSRequest - Embeddable Request Interface
+This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
 
-## Alpha/Beta stage:
+### I integrated analytical tools and marketing such as:
+- Google Ad Words
+- Google analytics
+- Disqus comment system
+- Add This social sharing
 
-These SDKs are still in development:
+>>External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js
 
-* https://github.com/Allow2/Allow2node - Device SDK
-* https://github.com/Allow2/Allow2python - Device SDK
+In order to set your log data to applications _config.yml just open the file and find the associated items.
 
-## Need to port/develop
+I also built a system to add their own names on the same company files
 
-These SDKs are yet to be ported, please feel free to get started:
+**To change the base colors yellow go in css folder there main.css where you can set the primary color and the secondary color, remember that the theme is gradient in the background areas**
 
-* https://github.com/Allow2/Allow2csharp - Device SDK
-* https://github.com/Allow2/Allow2java - Device SDK
-* https://github.com/Allow2/Allow2php - Service SDK
 
-If you need another language, please let us know, or feel free to get started and contribute your port.
+If you are interested in implementing this theme please contact me without any problems I will do what is in my power to help you!
+
+If you have noticed anything unusual or errors in my development I ask you kindly let me know or send a pull request!
+
+Any opinion and critical comment is welcome! So give us inside!
+
+We can get in touch by:
+
+1. By <a href="https://twitter.com/lantoniotrento">twitter</a>
+2. mail <a href="mailto:lantoniotrento@gmail.com">lantoniotrento[at]gmail.com</a>
+3. Via <a href="https://it.linkedin.com/in/antoniotrento">LinkedIn</a>
+
+=========
+
+For more details, read the [documentation](http://jekyllrb.com/)

@@ -3,9 +3,17 @@ Doco: https://jekyllrb.com/docs
 
 -----------
 
+INSTALLATION:
+
+bundle install
+
+-----------
+
+EDITING:
+
 change files here and run a local server to see live updates:
 
-jekyll serve --livereload
+bundle exec jekyll serve -L
 
 -----------
 
