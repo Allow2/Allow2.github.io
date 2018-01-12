@@ -113,8 +113,8 @@ These SDKs are still in development:
 
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
-| Allow2iOS       | [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) | Node.js | |
-| Allow2python       | [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) | Python | |
+| Allow2node       | [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) | Node.js | |
+| Allow2python    | [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) | Python | |
 
 
 ## Using on a server/service/web site
