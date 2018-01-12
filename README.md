@@ -97,20 +97,20 @@ func Allow2CheckResultNotification(notification:NSNotification) {
 ```
 
 
-## Current production-ready SDKs:
+# Current production-ready APIs/SDKs:
 
 These SDKs can be embedded in production apps:
 
 * [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) - iOS App SDK
 
-## Alpha/Beta stage:
+## Alpha/Beta APIs/SDKs:
 
 These SDKs are still in development:
 
 * [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) - Device SDK (Node.js)
 * [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) - Device SDK (Python)
 
-## Need to port/develop
+## Work needed to port/develop
 
 These SDKs are yet to be ported, please feel free to get started:
 
@@ -119,3 +119,20 @@ These SDKs are yet to be ported, please feel free to get started:
 * [https://github.com/Allow2/Allow2java](https://github.com/Allow2/Allow2java) - Device SDK (Java)
 
 If you need another language, please let us know, or feel free to get started and contribute your port.
+
+# Example open-source projects using Allow2
+
+Here are just a few of the open-source projects using Allow2, they are in various stages of development
+
+* [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) - An iOS/tvOS Frontend for multiple gaming emulators (Swift example)
+* [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) - An iOS/tvOS Frontend for multiple gaming emulators (Swift example)
+
+# Internal Projects
+
+These projects are not yet open-source and are currently invitation-only.
+Please email [mailto:ceo@allow2.com](ceo@allow2.com) if you are interested in getting involved in these projects.
+
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| allow2openWRT   | [https://github.com/Allow2CEO/allow2openwrt](https://github.com/Allow2CEO/allow2openwrt) | C | Router Firmware module for Allow2 Access Controls |
+| allow2deviceAPI | [https://github.com/Allow2CEO/allow2deviceAPI](https://github.com/Allow2CEO/allow2deviceAPI) | C | Fully Offline Cached C API Library |
