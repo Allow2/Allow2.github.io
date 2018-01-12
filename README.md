@@ -161,3 +161,11 @@ Please email [ceo@allow2.com](mailto:ceo@allow2.com) if you are interested in ge
 | allow2windows   | [https://github.com/Allow2/allow2windows](https://github.com/Allow2/allow2windows) | C# | Allow2 enabled windows time control |
 | Allow2wemo      | [https://github.com/Allow2/Allow2wemo](https://github.com/Allow2/Allow2wemo) | Node.js | Allow2 enabled wemo lightswitch and fan/device/etc controller |
 | Allow2kodi      | [https://github.com/Allow2/Allow2kodi](https://github.com/Allow2/Allow2kodi) | Node.js | Allow2 plugin/controller for Kodi media player |
+
+# Other Uses
+
+Allow2 currently has an Alexa skill in Beta (releasing shortly), which will also be offered on Google Assistant.
+
+We see immense opportunity to utilise this platform in IoT, automation and enterprise. There are already a number of projects
+popping up around these applications, so if you are working on novel applications, new ports or enhancements of the SDKs,
+or enterprise applications, please contact us so we can assist you [ceo@allow2.com](mailto:ceo@allow2.com).
