@@ -96,27 +96,46 @@ func Allow2CheckResultNotification(notification:NSNotification) {
 }
 ```
 
+-
 
 # Current production-ready APIs/SDKs:
 
 These SDKs can be embedded in production apps:
 
-* [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) - iOS App SDK
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| Allow2iOS       | [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) | Swift | |
+
 
 ## Alpha/Beta APIs/SDKs:
 
 These SDKs are still in development:
 
-* [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) - Device SDK (Node.js)
-* [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) - Device SDK (Python)
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| Allow2iOS       | [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) | Node.js | |
+| Allow2python       | [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) | Python | |
+
+
+## Using on a server/service/web site
+
+These SDKs are specifically used on connecting at the service level (that is, not for individual accounts).
+
+This demonstrates the basis of using Allow2 on Facebook, Wordpress, Twitter, WhatsApp, etc:
+
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| Allow2php       | [https://github.com/Allow2/Allow2php](https://github.com/Allow2/Allow2php) | PHP | Service SDK |
+
 
 ## Work needed to port/develop
 
 These SDKs are yet to be ported, please feel free to get started:
 
-* [https://github.com/Allow2/Allow2php](https://github.com/Allow2/Allow2php) - Service SDK (PHP)
-* [https://github.com/Allow2/Allow2csharp](https://github.com/Allow2/Allow2csharp) - Device SDK (C#)
-* [https://github.com/Allow2/Allow2java](https://github.com/Allow2/Allow2java) - Device SDK (Java)
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| Allow2csharp    | [https://github.com/Allow2/Allow2csharp](https://github.com/Allow2/Allow2csharp) | C# |  |
+| Allow2java      | [https://github.com/Allow2/Allow2java](https://github.com/Allow2/Allow2java) | Java | |
 
 If you need another language, please let us know, or feel free to get started and contribute your port.
 
@@ -124,15 +143,21 @@ If you need another language, please let us know, or feel free to get started an
 
 Here are just a few of the open-source projects using Allow2, they are in various stages of development
 
-* [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) - An iOS/tvOS Frontend for multiple gaming emulators (Swift example)
-* [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) - An iOS/tvOS Frontend for multiple gaming emulators (Swift example)
+| Project Title   | URL | Language | Notes |
+| -------------   | --- | -------- | ----- |
+| Brave Browser iOS | [https://github.com/Allow2CEO/browser-ios](https://github.com/Allow2CEO/browser-ios) | Swift | Open-source browser [https://www.brave.com](https://www.brave.com) |
+| Provenance    | [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) | Swift | An iOS/tvOS Frontend for multiple gaming emulators |
 
 # Internal Projects
 
 These projects are not yet open-source and are currently invitation-only.
-Please email [mailto:ceo@allow2.com](ceo@allow2.com) if you are interested in getting involved in these projects.
+Please email [ceo@allow2.com](mailto:ceo@allow2.com) if you are interested in getting involved in these projects.
 
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
 | allow2openWRT   | [https://github.com/Allow2CEO/allow2openwrt](https://github.com/Allow2CEO/allow2openwrt) | C | Router Firmware module for Allow2 Access Controls |
 | allow2deviceAPI | [https://github.com/Allow2CEO/allow2deviceAPI](https://github.com/Allow2CEO/allow2deviceAPI) | C | Fully Offline Cached C API Library |
+| allow2mac       | [https://github.com/Allow2/allow2mac](https://github.com/Allow2/allow2mac) | Swift | Allow2 enabled OSX account control |
+| allow2windows   | [https://github.com/Allow2/allow2windows](https://github.com/Allow2/allow2windows) | C# | Allow2 enabled windows time control |
+| Allow2wemo      | [https://github.com/Allow2/Allow2wemo](https://github.com/Allow2/Allow2wemo) | Node.js | Allow2 enabled wemo lightswitch and fan/device/etc controller |
+| Allow2kodi      | [https://github.com/Allow2/Allow2kodi](https://github.com/Allow2/Allow2kodi) | Node.js | Allow2 plugin/controller for Kodi media player |
