@@ -4,6 +4,8 @@ The What and Why of Allow2.
 
 Why should Software and Firmware Developers, Web Site Owners and Device Manufacturers use Allow2?
 
+Much more [Detail in the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) as well.
+
 ## A Rapidly Growing Need
 
 [OPEN LETTER FROM JANA PARTNERS AND CALSTRS TO APPLE INC](https://thinkdifferentlyaboutkids.com/)
