@@ -4,6 +4,15 @@ The What and Why of Allow2.
 
 Why should Software and Firmware Developers, Web Site Owners and Device Manufacturers use Allow2?
 
+1. [Documentation](#documentation)
+2. [A Rapidly Growing Need](#a-rapidly-growing-need)
+3. [Why Use Allow2?](#why-use-allow2)
+4. [Allow2 Usage Examples](#allow2-usage-examples)
+5. [Simple to Integrate](#simple-to-integrate)
+6. [Example open-source projects using Allow2](#example-open-source-projects-using-allow2)
+7. [Internal Projects](#internal-projects)
+8. [Other Uses](#other-uses)
+
 ## Documentation
 
 If you already know the reason, purpose and benefits of Allow2 and just want to get started, [Please see the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) for Documentation and Guides.
@@ -59,7 +68,13 @@ The **Allow2** platform provides free to use developer SDKs for both "devices" a
 * Place limits on gaming time, be it on device, web site or gaming console
 * Implement electricity usage quotas, if children forget to turn off their fan or light, they run out of quota for the day and the devices turn off.
 
-## Simple to integrate
+## Simple to Integrate
+
+The Allow2 Freedom Platform provides all the controls and coordination magic to make it happen. ALL of the free APIs are open-source, specifically to foster broad and fast adoption, rapid maintenance and ongoing collation and implementation of optimisations and enhancements led by the global community.
+
+Each platform, language and usage is catered for by installing the library, pod or package that best suits your needs. And better still, they are a breeze to integrate and can be directly maintained if you encounter any difficulties or need altered behaviours.
+
+### Example integration using swift and cocoapods
 
 example taken from: [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS)
 
