@@ -4,7 +4,9 @@ The What and Why of Allow2.
 
 Why should Software and Firmware Developers, Web Site Owners and Device Manufacturers use Allow2?
 
-Much more [Detail in the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) as well.
+## Documentation
+
+If you already know the reason, purpose and benefits of Allow2 and just want to get started, [Please see the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) for Documentation and Guides.
 
 ## A Rapidly Growing Need
 
