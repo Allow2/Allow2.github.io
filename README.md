@@ -8,6 +8,7 @@ Why should Software and Firmware Developers, Web Site Owners and Device Manufact
 2. [A Rapidly Growing Need](#a-rapidly-growing-need)
 3. [Why Use Allow2?](#why-use-allow2)
 4. [Allow2 Usage Examples](#allow2-usage-examples)
+5. [Try it out!](#try-it-out)
 5. [Simple to Integrate](#simple-to-integrate)
 6. [Example open-source projects using Allow2](#example-open-source-projects-using-allow2)
 7. [Internal Projects](#internal-projects)
@@ -67,6 +68,20 @@ The **Allow2** platform provides free to use developer SDKs for both "devices" a
 
 * Place limits on gaming time, be it on device, web site or gaming console
 * Implement electricity usage quotas, if children forget to turn off their fan or light, they run out of quota for the day and the devices turn off.
+
+## Try it out!
+
+The Staging environment is currently in alpha for the development environment. The current components and interfaces are ready for you to get an idea of the power of the system:
+
+* User Portal (Staging) : [https://staging.allow2.com](https://staging.allow2.com)
+* Developer Portal (Staging) : [https://staging-developer.allow2.com](https://staging-developer.allow2.com)
+
+Once you create an account, you can use the following integrations to see try world examples:
+
+* [Allow2Surf iOS browser](https://github.com/Allow2/Allow2Surf/tree/allow2surf) (based on the brave opensource browser)
+* [Wemo IoT electricity quota integration](https://github.com/Allow2/Allow2wemo)
+
+If you see any bugs, please raise them in the approriate repo or better still, jump in and help clean things up!
 
 ## Simple to Integrate
 
