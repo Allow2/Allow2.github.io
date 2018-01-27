@@ -1,3 +1,18 @@
+# Getting involved
+
+Allow2 is a next-generation powerful Parental Freedom Platform.
+
+With SDKs, Libraries and Example projects for all platforms, languages and applications, the world is your oyster!
+
+Developers, Dads, Mums, Mum Developers, Dad Developers, Game Builders, Embedded System Engineers, Home Automation Companies: Find or ask for a repo, clone it and get started!
+
+Heres a few suggestions:
+* Who is going to be the first 12 year old to release an iPhone game with built-in parental controls? Think of the global publicity!
+* Own a website? [Contact Us](mailto:ceo@allow2.com) to Beta-test the Wordpress Plugin.
+* Do you work for Belkin? Checkout the [Allow2Wemo](https://www.github.com/Allow2/Allow2wemo) project for home automation! [Contact Us](mailto:ceo@allow2.com) to get access to the OpenWRT Router plugin code.
+* Google Android Team: Pretty easy to get REAL Parental Controls into the OS, [Contact Us](mailto:ceo@allow2.com) or just start using it. It's Free!
+* Do you work for Sony? Facebook? Apple? <insert company name here>? [Contact Us](mailto:ceo@allow2.com) to get help integrating.
+
 # Allow2
 
 The What and Why of Allow2.
