@@ -11,7 +11,7 @@ Heres a few suggestions:
 * Own a website? [Contact Us](mailto:ceo@allow2.com) to Beta-test the Wordpress Plugin.
 * Do you work for Belkin? Checkout the [Allow2Wemo](https://www.github.com/Allow2/Allow2wemo) project for home automation! [Contact Us](mailto:ceo@allow2.com) to get access to the OpenWRT Router plugin code.
 * Google Android Team: Pretty easy to get REAL Parental Controls into the OS, [Contact Us](mailto:ceo@allow2.com) or just start using it. It's Free!
-* Do you work for Sony? Facebook? Apple? <insert company name here>? [Contact Us](mailto:ceo@allow2.com) to get help integrating.
+* Do you work for Sony? Facebook? Apple? &lt;insert company name here>? [Contact Us](mailto:ceo@allow2.com) to get help integrating.
 
 # Allow2
 
