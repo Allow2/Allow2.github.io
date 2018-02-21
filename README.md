@@ -2,6 +2,8 @@
 
 Allow2 is a next-generation powerful Parental Freedom Platform.
 
+Our mission is to reduce fear and friction in the home. Provide mechanisms to allow parents to relax and use technology to curb addiction and teach responsibility. If I had more ability to moderate usage I would spend far more on gaming!
+
 With SDKs, Libraries and Example projects for all platforms, languages and applications, the world is your oyster!
 
 Developers, Dads, Mums, Mum Developers, Dad Developers, Game Builders, Embedded System Engineers, Home Automation Companies: Find or ask for a repo, clone it and get started!
@@ -9,7 +11,7 @@ Developers, Dads, Mums, Mum Developers, Dad Developers, Game Builders, Embedded 
 Heres a few suggestions:
 * Who is going to be the first 12 year old to release an iPhone game with built-in parental controls? Think of the global publicity!
 * Own a website? [Contact Us](mailto:ceo@allow2.com) to Beta-test the Wordpress Plugin.
-* Do you work for Belkin? Checkout the [Allow2Wemo](https://www.github.com/Allow2/Allow2wemo) project for home automation! [Contact Us](mailto:ceo@allow2.com) to get access to the OpenWRT Router plugin code.
+* Do you work for Belkin? Checkout the [Allow2Automate](https://www.github.com/Allow2/Allow2Automate) (formally known as Allow2wemo) project for home automation! [Contact Us](mailto:ceo@allow2.com) to get access to the OpenWRT Router plugin code.
 * Google Android Team: Pretty easy to get REAL Parental Controls into the OS, [Contact Us](mailto:ceo@allow2.com) or just start using it. It's Free!
 * Do you work for Sony? Facebook? Apple? &lt;insert company name here>? [Contact Us](mailto:ceo@allow2.com) to get help integrating.
 
@@ -94,7 +96,7 @@ The Staging environment is currently in alpha for the development environment. T
 Once you create an account, you can use the following integrations to see try world examples:
 
 * [Allow2Surf iOS browser](https://github.com/Allow2/Allow2Surf/tree/allow2surf) (based on the brave opensource browser)
-* [Wemo IoT electricity quota integration](https://github.com/Allow2/Allow2wemo)
+* [Home Automation/IoT electricity quota integration](https://github.com/Allow2/Allow2Automate)
 
 If you see any bugs, please raise them in the approriate repo or better still, jump in and help clean things up!
 
@@ -208,7 +210,7 @@ Please email [ceo@allow2.com](mailto:ceo@allow2.com) if you are interested in ge
 | allow2deviceAPI | [https://github.com/Allow2CEO/allow2deviceAPI](https://github.com/Allow2CEO/allow2deviceAPI) | C | Fully Offline Cached C API Library |
 | allow2mac       | [https://github.com/Allow2/allow2mac](https://github.com/Allow2/allow2mac) | Swift | Allow2 enabled OSX account control |
 | allow2windows   | [https://github.com/Allow2/allow2windows](https://github.com/Allow2/allow2windows) | C# | Allow2 enabled windows time control |
-| Allow2wemo      | [https://github.com/Allow2/Allow2wemo](https://github.com/Allow2/Allow2wemo) | Node.js | Allow2 enabled wemo lightswitch and fan/device/etc controller |
+| Allow2wemo      | [https://github.com/Allow2/Allow2Automate](https://github.com/Allow2/Allow2Automate) | Node.js | Allow2 enabled lightswitch and fan/device/etc controller service |
 | Allow2kodi      | [https://github.com/Allow2/Allow2kodi](https://github.com/Allow2/Allow2kodi) | Node.js | Allow2 plugin/controller for Kodi media player |
 
 # Other Uses
