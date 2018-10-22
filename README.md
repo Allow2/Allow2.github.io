@@ -2,7 +2,9 @@
 
 Allow2 is a next-generation powerful Parental Freedom Platform.
 
-Our mission is to reduce fear and friction in the home. Provide mechanisms to allow parents to relax and use technology to curb addiction and teach responsibility. If I had more ability to moderate usage I would spend far more on gaming!
+Allow2 is NOT about reducing users! It is about providing the features a many people require. This opens up a whole new demographic to your games, apps, sites and products.
+
+Our mission is to reduce fear and friction in the home. We provide mechanisms to allow parents to relax and use technology to curb addiction and teach responsibility. If I had more ability to moderate usage I would spend far more on gaming!
 
 With SDKs, Libraries and Example projects for all platforms, languages and applications, the world is your oyster!
 
@@ -21,47 +23,15 @@ The What and Why of Allow2.
 
 Why should Software and Firmware Developers, Web Site Owners and Device Manufacturers use Allow2?
 
-1. [Documentation](#documentation)
-2. [A Rapidly Growing Need](#a-rapidly-growing-need)
-3. [Why Use Allow2?](#why-use-allow2)
-4. [Allow2 Usage Examples](#allow2-usage-examples)
-5. [Try it out!](#try-it-out)
-5. [Simple to Integrate](#simple-to-integrate)
-6. [Example open-source projects using Allow2](#example-open-source-projects-using-allow2)
-7. [Internal Projects](#internal-projects)
-8. [Other Uses](#other-uses)
-
-## Documentation
-
-If you already know the reason, purpose and benefits of Allow2 and just want to get started, [Please see the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) for Documentation and Guides.
-
-## A Rapidly Growing Need
-
-[OPEN LETTER FROM JANA PARTNERS AND CALSTRS TO APPLE INC](https://thinkdifferentlyaboutkids.com/)
-
-With the explosion of web and social media, the proliferation of devices and children gaining 24 x 7 access to screens,
-parents are genuinely concerned about gaming and social media addictions. Broader access to materials is making children harder to mentor and less likely to
-feel they have anything to learn from their parents, teachers and general authorities.
-
-Parents are looking more and more for products that have sensible, helpful and useful parental controls. They need to be able to easily:
-* Setup and manage time limits on different days
-* Ban activities when children misbehave
-* Provide rewards for chores and good behaviour
-
-But **ALL other systems** suffer from a **number of fatal flaws**:
-* They **ALL** require you to set controls based on the day of the week (Monday, etc) which is **not how the world works**.
-* Manufacturers and developers cannot expend a disproportionate amount of resource developing complex and comprehensive parental controls, so they typically
-**create rudimentary and useless solutions** or **just do not bother**.
-* All systems are siloed and independent, creating an immense and ever growing burden on the billions of time-poor parents around the world.
-* Parents are now becoming **reluctant to spend** on devices, games and service subscriptions as they know they have no tools to help them teach responsible use.
-* With electricity prices souring, greenhouse emissions growing and the rapidly growing carbon footprint, parents are forever paying more and damaging the planet
-more each day when children are constantly leaving their lights and fans on.
-
-**Life is really about exceptions**: Holidays, Sick Days, Sporting events, and more.
-Parents need to **spend less time managing child time limits** and they need a simple interface to do so across everything.
-
-So when systems then require parents to repeatedly reconfigure devices and apps to cater for these frequent events, AND they have to do this on different sites,
-apps and devices, they quickly give up in frustration.
+1. [Why Use Allow2?](#why-use-allow2)
+2. [Allow2 Usage Examples](#allow2-usage-examples)
+3. [Try it out!](#try-it-out)
+4. [Simple to Integrate](#simple-to-integrate)
+5. [Example open-source projects using Allow2](#example-open-source-projects-using-allow2)
+6. [Internal Projects](#internal-projects)
+7. [Other Uses](#other-uses)
+8. [Documentation](#documentation)
+9. [A Rapidly Growing Need](#a-rapidly-growing-need)
 
 ## Why Use Allow2?
 
@@ -83,17 +53,23 @@ The **Allow2** platform provides free to use developer SDKs for both "devices" a
 
 ## Allow2 Usage Examples
 
-* Place limits on gaming time, be it on device, web site or gaming console
-* Implement electricity usage quotas, if children forget to turn off their fan or light, they run out of quota for the day and the devices turn off.
+* Check for parent-imposed limits on gaming time, be it on device, web site or gaming console - This will get MORE users to your site, parents are looking for products with this feature.
+* Check for electricity usage quotas, if children forget to turn off their fan or light, they run out of quota for the day and the devices turn off - suddenly it becomes THEIR problem.
+* Check for messaging or call time limits. Come on Apple, Google, Samsung, Telstra, AT&T, parents and teachers need to be able to allow children to use devices in the classroom, within limits.
+* Facebook, twitter, snapchat, etc - stop people cancelling accounts, invite users too scared of unlimited use, boost numbers by giving them the controls they are asking for, for free!
 
 ## Try it out!
 
-The Staging environment is currently in alpha for the development environment. The current components and interfaces are ready for you to get an idea of the power of the system:
+To get started, create a free account in the developer portal (you can use the same account for both portals):
 
-* User Portal (Staging) : [https://staging.allow2.com](https://staging.allow2.com)
-* Developer Portal (Staging) : [https://staging-developer.allow2.com](https://staging-developer.allow2.com)
+* User Portal : [https://app.allow2.com](https://app.allow2.com)
+* Developer Portal : [https://developer.allow2.com](https://developer.allow2.com)
 
-Once you create an account, you can use the following integrations to see try world examples:
+Once you create an account you can play with the API (see below for API status for various languages), or you can play in the (allow2 javascript runkit sandbox)[https://npm.runkit.com/allow2].
+
+Or you can use node-red to try out the allow2nodered nodes ((https://flows.nodered.org/node/allow2nodered)[https://flows.nodered.org/node/allow2nodered]).
+
+You can also use the following integrations to try real world examples:
 
 * [Allow2Surf iOS browser](https://github.com/Allow2/Allow2Surf/tree/allow2surf) (based on the brave opensource browser)
 * [Home Automation/IoT electricity quota integration](https://github.com/Allow2/Allow2Automate)
@@ -156,7 +132,7 @@ These SDKs can be embedded in production apps:
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
 | Allow2iOS       | [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) | Swift | |
-
+| Allow2node       | [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) | Node.js | |
 
 ## Alpha/Beta APIs/SDKs:
 
@@ -164,7 +140,7 @@ These SDKs are still in development:
 
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
-| Allow2node       | [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) | Node.js | |
+
 | Allow2python    | [https://github.com/Allow2/Allow2python](https://github.com/Allow2/Allow2python) | Python | |
 
 
@@ -220,3 +196,36 @@ Allow2 currently has an Alexa skill in Beta (releasing shortly), which will also
 We see immense opportunity to utilise this platform in IoT, automation and enterprise. There are already a number of projects
 popping up around these applications, so if you are working on novel applications, new ports or enhancements of the SDKs,
 or enterprise applications, please contact us so we can assist you [ceo@allow2.com](mailto:ceo@allow2.com).
+
+## Documentation
+
+If you already know the reason, purpose and benefits of Allow2 and just want to get started, [Please see the Wiki](https://github.com/Allow2/Allow2.github.io/wiki) for Documentation and Guides.
+
+## A Rapidly Growing Need
+
+[OPEN LETTER FROM JANA PARTNERS AND CALSTRS TO APPLE INC](https://thinkdifferentlyaboutkids.com/)
+
+With the explosion of web and social media, the proliferation of devices and children gaining 24 x 7 access to screens,
+parents are genuinely concerned about gaming and social media addictions. Broader access to materials is making children harder to mentor and less likely to
+feel they have anything to learn from their parents, teachers and general authorities.
+
+Parents are looking more and more for products that have sensible, helpful and useful parental controls. They need to be able to easily:
+* Setup and manage time limits on different days
+* Ban activities when children misbehave
+* Provide rewards for chores and good behaviour
+
+But **ALL other systems** suffer from a **number of fatal flaws**:
+* They **ALL** require you to set controls based on the day of the week (Monday, etc) which is **not how the world works**.
+* Manufacturers and developers cannot expend a disproportionate amount of resource developing complex and comprehensive parental controls, so they typically
+**create rudimentary and useless solutions** or **just do not bother**.
+* All systems are siloed and independent, creating an immense and ever growing burden on the billions of time-poor parents around the world.
+* Parents are now becoming **reluctant to spend** on devices, games and service subscriptions as they know they have no tools to help them teach responsible use.
+* With electricity prices souring, greenhouse emissions growing and the rapidly growing carbon footprint, parents are forever paying more and damaging the planet
+more each day when children are constantly leaving their lights and fans on.
+
+**Life is really about exceptions**: Holidays, Sick Days, Sporting events, and more.
+Parents need to **spend less time managing child time limits** and they need a simple interface to do so across everything.
+
+So when systems then require parents to repeatedly reconfigure devices and apps to cater for these frequent events, AND they have to do this on different sites,
+apps and devices, they quickly give up in frustration.
+
