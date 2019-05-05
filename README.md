@@ -132,7 +132,8 @@ These SDKs can be embedded in production apps:
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
 | Allow2iOS       | [https://github.com/Allow2/Allow2iOS](https://github.com/Allow2/Allow2iOS) | Swift | |
-| Allow2node       | [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) | Node.js | |
+| Allow2node      | [https://github.com/Allow2/Allow2node](https://github.com/Allow2/Allow2node) | Node.js | |
+| Allow2Unity     | [https://github.com/Allow2/Allow2Unity](https://github.com/Allow2/Allow2Unity) | C# | |
 
 ## Alpha/Beta APIs/SDKs:
 
@@ -191,7 +192,7 @@ Please email [ceo@allow2.com](mailto:ceo@allow2.com) if you are interested in ge
 
 # Other Uses
 
-Allow2 currently has an Alexa skill in Beta (releasing shortly), which will also be offered on Google Assistant.
+Allow2 currently has an Alexa skill, which is offered on Google Assistant.
 
 We see immense opportunity to utilise this platform in IoT, automation and enterprise. There are already a number of projects
 popping up around these applications, so if you are working on novel applications, new ports or enhancements of the SDKs,
