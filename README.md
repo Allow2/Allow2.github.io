@@ -173,6 +173,7 @@ Here are just a few of the open-source projects using Allow2, they are in variou
 
 | Project Title   | URL | Language | Notes |
 | -------------   | --- | -------- | ----- |
+| Allow2Automate | [https://github.com/Allow2/Allow2Automate](https://github.com/Allow2/Allow2Automate) | Electron/React/Javascript | Open-source cross-platform IoT automation (and bridge) |
 | Brave Browser iOS | [https://github.com/Allow2CEO/browser-ios](https://github.com/Allow2CEO/browser-ios) | Swift | Open-source browser [https://www.brave.com](https://www.brave.com) |
 | Provenance    | [https://github.com/Allow2/Provenance](https://github.com/Allow2/Provenance) | Swift | An iOS/tvOS Frontend for multiple gaming emulators |
 
